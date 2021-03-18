@@ -1,0 +1,1 @@
+﻿DBCC CHECKIDENT(TbNumOs, RESEED, 0)
